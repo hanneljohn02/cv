@@ -1,0 +1,21 @@
+
+body{
+    text-align: center;
+    margin: 0;
+    font-family:Comic Sans MS, cursive, sans-serif;
+    background-color: #FEF5ED;
+}
+.top-container{
+    padding-top: 100px;
+    position: relative;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 500px;
+    bottom: 300px;
+}
+.top-cloud{
+    position: absolute;
+    top: 50px;
+    right: 550px;
+}
